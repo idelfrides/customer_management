@@ -11,22 +11,25 @@ Available on Udemy platform.
 
 
 
-## Sobre este curso
+### Sobre este curso
 
 Você já sabe Django e quer ir a fundo em técnicas avançadas e produtivas? Então este e o curso para você.
 
-Pelos números               Nível de experiência: Nível Especialistac                 Lições: 106
+### Pelos números  -->    
+
+                            Nível de experiência: Nível Especialistac                 Lições: 106
                             Alunos: 2922                                              Vídeo: 18 horas
                             Idiomas: Português
                             Legendas: Sim
                         
 -----                        
                                                                                          
-Recursos                Disponível em iOS e Android           |     Certificado de conclusão
+### Recursos   -->             Disponível em iOS e Android           |     Certificado de conclusão
+
 ----
 
 
-Descrição
+### Descrição
 
 Um curso dinâmico e que mistura teoria com pratica em live coding utilizando as mais avançadas técnicas no Django. Aprenda desde como ser mais produtivo na sua IDE ate como melhorar a performance e segurança da sua aplicação.
 
