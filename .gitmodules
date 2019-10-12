@@ -1,0 +1,3 @@
+[submodule "gestao_clientes"]
+	path = gestao_clientes
+	url = https://github.com/idelfrides/gestao_clientes.git
