@@ -137,5 +137,7 @@ Um curso dinâmico e que mistura teoria com pratica em live coding utilizando as
     Conectando sua aplicacao Django a um banco de dados existente
 
 
+###  Status
+Working in this project currently. 
 
 
