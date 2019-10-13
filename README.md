@@ -23,15 +23,10 @@ Você já sabe Django e quer ir a fundo em técnicas avançadas e produtivas? En
                             Legendas: Sim
                         
 -----                        
-                                                                                         
-### Recursos   -->             Disponível em iOS e Android           |     Certificado de conclusão
-
-----
-
 
 ### Descrição
 
-Um curso dinâmico e que mistura teoria com pratica em live coding utilizando as mais avançadas técnicas no Django. Aprenda desde como ser mais produtivo na sua IDE ate como melhorar a performance e segurança da sua aplicação.
+Um curso dinâmico e que mistura teoria com pratica em live coding utilizando as mais avançadas técnicas no Django. Aprenda desde como ser mais produtivo na sua IDE até como melhorar a performance e segurança da sua aplicação.
 
 ----
     Produtividade no Pycharm
