@@ -1,4 +1,4 @@
-# costumer_management
+# customer_management
 
 
 Advanced course of Django framework.
